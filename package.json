@@ -1,7 +1,7 @@
 {
   "name": "lecheng-wechat",
   "version": "0.2.1",
-  "description": "A wechat deal ",
+  "description": "Wechat server module",
   "main": "lib/wechat.js",
   "scripts": {
     "test": "make test"
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/lvyue/lecheng-wechat#readme",
   "dependencies": {
+    "crypto": "0.0.3",
     "lodash": "^4.17.0",
     "request": "^2.78.0",
     "sha1": "^1.1.1",
