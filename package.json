@@ -1,6 +1,6 @@
 {
   "name": "lecheng-wechat",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "description": "Wechat server module",
   "main": "lib/wechat.js",
   "scripts": {
